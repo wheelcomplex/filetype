@@ -3,7 +3,7 @@ package filetype
 import (
 	"testing"
 
-	"github.com/h2non/filetype/types"
+	"github.com/wheelcomplex/filetype/types"
 )
 
 func TestIs(t *testing.T) {
